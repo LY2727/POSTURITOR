@@ -1,5 +1,7 @@
 # POSTURITOR
 contributor: @tangyiqwan, @livelycloud, @xinhui, @maffinnn
+date: 15-17 Oct 2021
+event: MLDA DLW Hackathon
 
 ## Demo Link: https://www.youtube.com/watch?v=zaJA1EtpMoI&t=101s
 
